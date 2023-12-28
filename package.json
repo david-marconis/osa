@@ -1,0 +1,15 @@
+{
+  "name": "osa",
+  "version": "1.0.0",
+  "description": "OpenShift authentication made easy!",
+  "main": "bin/osa.js",
+  "type": "module",
+  "author": "David Hovind (david.hovind@tietoevry.com)",
+  "license": "ISC",
+  "bin": {
+    "osa": "bin/osa.js"
+  },
+  "dependencies": {
+    "puppeteer": "^14.0.0"
+  }
+}
